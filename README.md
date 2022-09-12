@@ -60,7 +60,7 @@ To learn
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ismapc95&layout=compact&theme=dark)
 
 ## Total contributions and streaks
-![Contrib](https://github-readme-streak-stats.herokuapp.com/?user=ismapc95)
+![Contrib](https://github-readme-streak-stats.herokuapp.com/?user=ismapc95&theme=dark)
 
 ## Contact and support:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismapc2@gmail.com)

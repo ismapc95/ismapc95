@@ -42,22 +42,9 @@ Y alguna más...
 [![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
 [![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
 
-## Los retos de programación de la comunidad:
-
-![https://retosdeprogramacion.com](./mouredev_retos_programacion.png)
-
-### Retos Semanales y Mensuales para mejorar nuestra lógica de programación y portfolio de aplicaciones [retosdeprogramacion.com](https://retosdeprogramacion.com)
-
 Índice en GitHub
 
 [![GitHub Code Challenges](https://img.shields.io/github/stars/mouredev/Code-Challenges?label=Retos%20de%20programacion&style=social)](https://github.com/mouredev/Code-Challenges)
-
-### Semanales
-
-Cada lunes un nuevo reto para mejorar nuestra lógica de programación.
-
-[![GitHub Weekly Kotlin](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-[![GitHub Weekly Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Retos%20Semanales%20en%20Swift&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
 
 ### Mensuales
 
@@ -68,77 +55,8 @@ Cada mes una nueva aplicación para añadir a nuestro portfolio.
 [![Twitch](https://img.shields.io/badge/Twitch-Challenge_live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-Challenge_chat_channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 
-## ⏳Twitimer: El proyecto de la comunidad:
-![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
-
 [![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Proyecto%20iOS&style=social)](https://github.com/mouredev/Twitimer-iOS)
 [![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Proyecto%20Android%20&style=social)](https://github.com/mouredev/Twitimer-Android)
-
-Twitimer es una aplicación gratuita **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** y **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** que ha sido desarrollada para ayudar a los usuarios de Twitch, pero sobre todo pensando en generar contenido educativo para toda la comunidad de programadores interesados en el mundo del desarrollo de apps para dispositivos móviles. Tienes todo el código público para su descarga.
-
-[![Web](https://img.shields.io/badge/Twitimer.com-Web_oficial-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](https://twitimer.com)
-
-## Algunos vídeos en YouTube:
-
-<table style="width:100%">
-  <tr>
-    <td>
-	<a href="https://youtu.be/MyzZnIR5gC4">
-  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
-	</a>
-	</td>
-    <td>
-	<a href="https://youtu.be/P6ko_I5GHbs">
-  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
-	</a>
-	</td>
-    <td>
-	<a href="https://youtu.be/hGIzLGgf3Bo">
-  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-  <tr>
-    <td>
-	<a href="https://youtu.be/BQaxPwZWboA">
-  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/ebQphhLpJG0">
-  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/X5fjEEmXR2s">
-  		<img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-    <tr>
-    <td>
-	<a href="https://youtu.be/1IpkZhkPC_I">
-  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/HH7U3tA0S8M">
-  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/vhrus08jp6s">
-  		<img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-</table>
-</table>
-
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
-
 
 ## Contacto y apoyo:
 

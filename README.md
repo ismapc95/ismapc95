@@ -4,20 +4,26 @@
 
 
 ## Technologies:
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
-[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-</br>
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Oracle](https://img.shields.io/badge/Oracle-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+### Daily use:
+[![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Oracle](https://img.shields.io/badge/ORACLE-f80000?style=for-the-badge&logo=oracle&logoColor=white)]()
+[![Python](https://img.shields.io/badge/PYTHON-4B8BBE?style=for-the-badge&logo=python&logoColor=white)]()
+[![Node.JS](https://img.shields.io/badge/NODE.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white)]()
+
+### Learning or learned
+[![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)]()
+[![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![Android_Studio](https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
 </br>
 
-
-
-I'm learn with this project:[![Github](https://img.shields.io/badge/Github-666666?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ismapc95/Asus-ROG-GL552VW-DM149-Big-Sur)
+### Others
+I have created this/these project/s
+</br>
+[![Github](https://img.shields.io/badge/Github-666666?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ismapc95/Asus-ROG-GL552VW-DM149-Big-Sur)
+</br>
+To learn
 </br>
 [![Apple](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
